@@ -1,0 +1,12 @@
+
+N
+java:S2119"Save and re-use this "Random".(΅Ε”¦8ζ°Ώÿ0HΔ§RCRITICALZBUG
+y	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ΐ8ζ°Ώÿ0HΕ§RMAJORZ
+CODE_SMELL
+ 
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ΐ8ζ°Ώÿ0HΖ§RMINORZ
+CODE_SMELL
+k
+java:S1128
+"7Remove this unused import 'org.junit.jupiter.api.Test'.(ΦΊί8ήχύÿ0HΘ§RMINORZ
+CODE_SMELL

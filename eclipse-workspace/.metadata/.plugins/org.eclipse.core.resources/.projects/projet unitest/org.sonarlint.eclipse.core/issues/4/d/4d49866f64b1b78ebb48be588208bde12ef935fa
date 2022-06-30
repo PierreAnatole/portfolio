@@ -1,0 +1,15 @@
+
+j	java:S106&"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿHĞ§RMAJORZ
+CODE_SMELL
+a
+java:S1128"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ãHÑ§RMINORZ
+CODE_SMELL
+s
+java:S1126"AReplace this if-then-else statement by a single return statement.(¢¿°²ÿÿÿÿÿHÏ§RMINORZ
+CODE_SMELL
+f
+java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…ÄúÿÿÿÿHÓ§RMINORZ
+CODE_SMELL
+r
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ş®¶¸HÌ§RMINORZ
+CODE_SMELL

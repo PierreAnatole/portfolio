@@ -1,0 +1,5 @@
+package interfaces;
+
+public enum Figures {
+	SQUARE,CIRCLE,RECTANGLE,ELLIPSE,TRIANGLE,PARALLELOGRAM,HEXAGON,OCTAGON;
+}

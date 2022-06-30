@@ -1,0 +1,16 @@
+
+j	java:S106"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿHõRMAJORZ
+CODE_SMELL
+l	java:S106"9Replace this use of System.out or System.err by a logger.(öòî8‚ŸñÓ˜0H‘õRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(¥ù‚ùÿÿÿÿH’õRMAJORZ
+CODE_SMELL
+e	java:S106"9Replace this use of System.out or System.err by a logger.(¨Ô…‹H“õRMAJORZ
+CODE_SMELL
+ˆ
+java:S1104	"OMake cnx a static final constant or non-public and provide accessors if needed.(ÜÅéùÿÿÿÿ8ŠÌ°Õ˜0H”õRMINORZ
+CODE_SMELL
+‹	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Æ€ÁàüÿÿÿÿH•õRMINORZ
+CODE_SMELL
+l	java:S106"9Replace this use of System.out or System.err by a logger.(–Ğ‡Ñ8‡íøÕ˜0H–õRMAJORZ
+CODE_SMELL

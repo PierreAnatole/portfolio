@@ -1,0 +1,19 @@
+INDEX VERSION 1.131
+C:\Users\PC31\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\292323229.index
+\GestionBanque\src\main\java
+C:\Users\PC31\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3809728289.index
+\bonnePratique\src\main\java
+C:\Users\PC31\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1421437407.index
+\GestionBanque\src\main\java
+C:\Users\PC31\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\318213026.index
+\projet_medical\src\main\java
+C:\Users\PC31\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1034679333.index
+\banqueCopie\src\main\java
+C:\Users\PC31\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1848494949.index
+\projetProduitJEE\src\main\java
+C:\Users\PC31\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1518489442.index
+\Catalogue_produit2\src\main\java
+C:\Users\PC31\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4097279174.index
+\outilEmprunt\src\main\java
+C:\Users\PC31\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\426592020.index
+\Catalogue_produit\src\main\java

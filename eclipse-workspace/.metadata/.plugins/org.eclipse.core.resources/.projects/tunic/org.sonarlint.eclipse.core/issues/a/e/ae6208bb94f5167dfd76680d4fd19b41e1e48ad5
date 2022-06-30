@@ -1,0 +1,12 @@
+
+…
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(õ×°*H“·RMINORZ
+CODE_SMELL
+‚
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(õ×°*H•·RMAJORZ
+CODE_SMELL
+€
+java:S1104"SMake message a static final constant or non-public and provide accessors if needed.(ÕÃØ·H–·RMINORZ
+CODE_SMELL
+j	java:S106 "9Replace this use of System.out or System.err by a logger.(œ³ŞùÿÿÿÿH—·RMAJORZ
+CODE_SMELL

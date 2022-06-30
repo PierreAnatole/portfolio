@@ -1,0 +1,9 @@
+
+T
+java:S1481"(Remove this unused "res" local variable.(˝°‘ÁHÃRMINORZ
+CODE_SMELL
+c
+java:S1854"7Remove this useless assignment to local variable "res".(÷ÁñçHÕRMAJORZ
+CODE_SMELL
+n
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(öïò HŒRBLOCKERZBUG

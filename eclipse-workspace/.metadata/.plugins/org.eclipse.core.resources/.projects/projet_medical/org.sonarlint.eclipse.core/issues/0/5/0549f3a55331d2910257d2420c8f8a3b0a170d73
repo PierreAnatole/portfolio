@@ -1,0 +1,49 @@
+
+‹
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(®¸õëÿÿÿÿÿHğ€RMINORZ
+CODE_SMELL
+Œ
+java:S1192)"\Define a constant instead of duplicating this literal "erreur dans la requette sql" 4 times.(± –ƒHò€RCRITICALZ
+CODE_SMELL
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(å»ÉˆH÷€RMINORZ
+CODE_SMELL
+w
+java:S2095Z"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÉîÆHú€RBLOCKERZBUG
+w
+java:S2095w"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÉîÆHû€RBLOCKERZBUG
+c
+java:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿHü€RINFOZ
+CODE_SMELL
+m	java:S125&"<This block of commented-out lines of code should be removed.(®¥õÃşÿÿÿÿHı€RMAJORZ
+CODE_SMELL
+e	java:S106)"9Replace this use of System.out or System.err by a logger.(± –ƒHş€RMAJORZ
+CODE_SMELL
+c
+java:S11350"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHÿ€RINFOZ
+CODE_SMELL
+e	java:S106B"9Replace this use of System.out or System.err by a logger.(± –ƒH€RMAJORZ
+CODE_SMELL
+c
+java:S1135I"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHRINFOZ
+CODE_SMELL
+j	java:S106O"9Replace this use of System.out or System.err by a logger.(ÇÒÓƒúÿÿÿÿH‚RMAJORZ
+CODE_SMELL
+}
+java:S3252["HUse static access with "java.sql.Statement" for "RETURN_GENERATED_KEYS".(·¯²ìşÿÿÿÿHƒRCRITICALZ
+CODE_SMELL
+h	java:S125c"<This block of commented-out lines of code should be removed.(ä™‰»H…RMAJORZ
+CODE_SMELL
+e	java:S106f"9Replace this use of System.out or System.err by a logger.(ó†ÙéH†RMAJORZ
+CODE_SMELL
+e	java:S106h"9Replace this use of System.out or System.err by a logger.(± –ƒH‡RMAJORZ
+CODE_SMELL
+}
+java:S3252x"HUse static access with "java.sql.Statement" for "RETURN_GENERATED_KEYS".(·¯²ìşÿÿÿÿHˆRCRITICALZ
+CODE_SMELL
+h	java:S125"<This block of commented-out lines of code should be removed.(ä™‰»HŠRMAJORZ
+CODE_SMELL
+f	java:S106‚"9Replace this use of System.out or System.err by a logger.(é¶õıH‹RMAJORZ
+CODE_SMELL
+f	java:S106„"9Replace this use of System.out or System.err by a logger.(± –ƒHŒRMAJORZ
+CODE_SMELL

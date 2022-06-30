@@ -1,0 +1,32 @@
+
+p
+java:S21306">Use "Double.parseDouble" for this string-to-double conversion.(—È«ËøÿÿÿÿH¶ÛRMINORZ
+CODE_SMELL
+–
+java:S1989P"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ç÷´·ùÿÿÿÿH¬ÛRMINORZVULNERABILITY
+l
+java:S1161"":Add the "@Override" annotation above this method signature(Ïû©ÖûÿÿÿÿH®ÛRMAJORZ
+CODE_SMELL
+c
+java:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿHºÛRINFOZ
+CODE_SMELL
+f
+java:S2130I"9Use "Integer.parseInt" for this string-to-int conversion.(µ­‡ûH«ÛRMINORZ
+CODE_SMELL
+ˆ
+java:S1989I"XHandle the following exception that could be thrown by "valueOf": NumberFormatException.(µ­‡ûH¸ÛRMINORZVULNERABILITY
+–
+java:S1989$"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ç÷´·ùÿÿÿÿH­ÛRMINORZVULNERABILITY
+f
+java:S2130?"9Use "Integer.parseInt" for this string-to-int conversion.(æ ÖëH·ÛRMINORZ
+CODE_SMELL
+ˆ
+java:S1989?"XHandle the following exception that could be thrown by "valueOf": NumberFormatException.(æ ÖëH»ÛRMINORZVULNERABILITY
+
+java:S19896"XHandle the following exception that could be thrown by "valueOf": NumberFormatException.(—È«ËøÿÿÿÿH¹ÛRMINORZVULNERABILITY
+g
+java:S1161*":Add the "@Override" annotation above this method signature(‹¨¯¿H°ÛRMAJORZ
+CODE_SMELL
+‘
+java:S11920"\Define a constant instead of duplicating this literal "0*(([0-9])|([1-4][0-9])|50)" 3 times.(ÿË¸¹øÿÿÿÿH²ÛRCRITICALZ
+CODE_SMELL

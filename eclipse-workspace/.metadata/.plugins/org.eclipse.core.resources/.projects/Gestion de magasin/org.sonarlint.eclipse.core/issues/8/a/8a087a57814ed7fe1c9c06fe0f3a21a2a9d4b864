@@ -1,0 +1,23 @@
+
+k	java:S106e"9Replace this use of System.out or System.err by a logger.(ˆßé¦8ôå¾±0H°RMAJORZ
+CODE_SMELL
+k	java:S106Z"9Replace this use of System.out or System.err by a logger.(º«†³8ºËŞ±0H±RMAJORZ
+CODE_SMELL
+Œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(´÷è8Ä›ü0H²RMINORZ
+CODE_SMELL
+p	java:S106^"9Replace this use of System.out or System.err by a logger.(Íş¾Ğÿÿÿÿÿ8óŞã0H´RMAJORZ
+CODE_SMELL
+p	java:S106l"9Replace this use of System.out or System.err by a logger.(ÂøÈöÿÿÿÿÿ8Ç¶ã0HµRMAJORZ
+CODE_SMELL
+p	java:S106'"9Replace this use of System.out or System.err by a logger.(á½‹¾úÿÿÿÿ8à–è0H¶RMAJORZ
+CODE_SMELL
+p	java:S106Y"9Replace this use of System.out or System.err by a logger.(‚’Èºøÿÿÿÿ8‡¾Œ‹0H·RMAJORZ
+CODE_SMELL
+p	java:S106m"9Replace this use of System.out or System.err by a logger.(§‚Ê»üÿÿÿÿ8‘á’‹0H¸RMAJORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠÉÆşÿÿÿÿ8¾›¨‹0H¹RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8à–è0H»RMAJORZ
+CODE_SMELL

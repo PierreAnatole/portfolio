@@ -1,0 +1,10 @@
+
+d
+java:S1481:"0Remove this unused "cleanSaison" local variable.(©±ÕÂ8½¦Ì‚0HÇ¢RMINORZ
+CODE_SMELL
+Š
+java:S3457="Q%n should be used in place of \n to produce the platform-specific line separator.(úÀéĞùÿÿÿÿ8ÂâÊ‚0HÉ¢RMAJORZ
+CODE_SMELL
+s
+java:S1854:"?Remove this useless assignment to local variable "cleanSaison".(©±ÕÂ8½¦Ì‚0HÊ¢RMAJORZ
+CODE_SMELL

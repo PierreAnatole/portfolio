@@ -1,0 +1,24 @@
+
+Z
+java:S1481"&Remove this unused "p" local variable.(èè¼¦8şÿ’§0H¹İRMINORZ
+CODE_SMELL
+e
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8ÇšÖ§0H»İRMINORZ
+CODE_SMELL
+d
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8ÇšÖ§0H½İRMINORZ
+CODE_SMELL
+p
+java:S1128"7Remove this unused import 'java.sql.PreparedStatement'.(òÄ™ƒÿÿÿÿÿ8ÇšÖ§0H¿İRMINORZ
+CODE_SMELL
+‰	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„»³µúÿÿÿÿ8ÉßÉƒ0HÁİRMINORZ
+CODE_SMELL
+i
+java:S1854"5Remove this useless assignment to local variable "p".(èè¼¦8şÿ’§0HÂİRMAJORZ
+CODE_SMELL
+i
+java:S1128	"5Remove this unused import 'connexion.ConnexionMysql'.(ÛÀúı8ÇšÖ§0HÃİRMINORZ
+CODE_SMELL
+¯
+java:S1130"{Remove the declaration of thrown exception 'exception.ProductNotFoundException', as it cannot be thrown from method's body.(¨ã¤8ÇšÖ§0HÅİRMINORZ
+CODE_SMELL

@@ -1,0 +1,43 @@
+
+~
+java:S2095'"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(”Ä¬¾8şµ¿µ˜0HÑõRBLOCKERZBUG
+©
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¿Ìüÿÿÿÿ8Î–µ˜0HÎõRMINORZ
+CODE_SMELL
+v
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(š•˜Ê8†ÖŠµ˜0HÂõRBLOCKERZBUG
+‹	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Æ€ÁàüÿÿÿÿH¾õRMINORZ
+CODE_SMELL
+~
+java:S2095O"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(”Ä¬¾8à¡­µ˜0HÌõRBLOCKERZBUG
+©
+java:S1319q"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÖŸ¿Äıÿÿÿÿ8ğªŸµ˜0HÈõRMINORZ
+CODE_SMELL
+m	java:S106‹"9Replace this use of System.out or System.err by a logger.(±áÄÖ8Ü„Ô˜0HÅõRMAJORZ
+CODE_SMELL
+~
+java:S2095b"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(”Ä¬¾8şµ¿µ˜0HËõRBLOCKERZBUG
+~
+java:S2095="OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(”Ä¬¾8şµ¿µ˜0HÔõRBLOCKERZBUG
+q	java:S106C"9Replace this use of System.out or System.err by a logger.(É‰ã›ÿÿÿÿÿ8·ÈåÓ˜0H½õRMAJORZ
+CODE_SMELL
+“
+java:S2293ƒ"YReplace the type specification in this constructor call with the diamond operator ("<>").(à¡Á—úÿÿÿÿ8·ÈåÓ˜0HÆõRMINORZ
+CODE_SMELL
+’
+java:S2293r"YReplace the type specification in this constructor call with the diamond operator ("<>").(à¡Á—úÿÿÿÿ8Î–µ˜0H»õRMINORZ
+CODE_SMELL
+
+java:S1488/"YImmediately return this expression instead of assigning it to the temporary variable "p".(®Ÿ†û8‹òºµ˜0H¿õRMINORZ
+CODE_SMELL
+l	java:S106A"9Replace this use of System.out or System.err by a logger.(ˆÖÒî8şµ¿µ˜0HºõRMAJORZ
+CODE_SMELL
+m	java:S106"9Replace this use of System.out or System.err by a logger.(±áÄÖ8á×Çµ˜0HàõRMAJORZ
+CODE_SMELL
+j
+java:S1128
+"6Remove this unused import 'javax.annotation.Resource'.(î¾Ì—8Õ—ãÕ˜0HÃõRMINORZ
+CODE_SMELL
+k
+java:S1135‡"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8·ÈåÓ˜0HÓõRINFOZ
+CODE_SMELL

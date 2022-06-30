@@ -1,0 +1,35 @@
+
+K
+src/main/webapp/accueil.jsp,5\b\5b21ef5e85ddae107a036c5544a44217dc80b093
+U
+%src/main/java/web/ControlServlet.java,7\b\7b53c69c9977b8c23e738a214dc36d59103f7b08
+S
+#src/main/java/entities/Produit.java,2\f\2f681ca3e1ff4e35c90fd15d49b6da679ab1dc97
+[
++src/main/java/Connexion/ConnexionMysql.java,4\9\49859e8fd9a9e5e2c492e7ac709ec17e4f7363c2
+C
+createCatalogue.sql,b\2\b24d098bd0f172c75bcfadc8783d365ab5293051
+W
+'src/main/java/Connexion/ProduitDAO.java,4\2\425efb6bef232817b6e7a2d4ef5b45ba64d22db8
+S
+#src/main/java/web/ListeProduit.java,4\3\43aa3ff9ffb89eb59db315bff61fd5138383df1e
+T
+$src/main/java/Connexion/TestDAO.java,e\a\ea10e09012f2c704ae0252e1939d3c95f1c48bbd
+`
+0src/main/java/entities/ProduitStockageModel.java,b\d\bdb50f050265e2ee69dc3d1a7b426848045e668b
+T
+$src/main/java/web/DeleteProduit.java,5\6\565dbc6a9c11662e3efe499ef0a5c41064c1da27
+T
+$src/main/java/web/UpdateProduit.java,2\1\21636ded63fb15d9e549032c79a234cb52cced94
+T
+$src/main/java/web/ExecuteUpdate.java,6\6\6601ebe88f9d313e1643796dd2424c0d57957ac7
+Q
+!src/main/java/web/AddProduit.java,9\d\9d48e17a418a2bae137a224679df6a31df6c185e
+P
+ src/main/webapp/ajoutProduit.jsp,3\9\395ff40dd3f3f504779e31d77abd7518744e16c9
+O
+src/main/webapp/editProduit.jsp,1\9\19b495b15182490ae556eec7006c0a4cc713b789
+P
+ src/main/webapp/listeProduit.jsp,1\f\1fb85aff8de90ccf7b7ca91fc71eb24cf0bd709d
+Q
+!src/main/java/web/ExecuteAdd.java,e\b\eb3a67a9e55a97808df2d3f6e0365db1764046a5

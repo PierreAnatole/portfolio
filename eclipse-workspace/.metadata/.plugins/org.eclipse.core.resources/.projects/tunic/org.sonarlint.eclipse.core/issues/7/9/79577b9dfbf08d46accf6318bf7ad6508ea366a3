@@ -1,0 +1,30 @@
+
+G
+java:S2119"Save and re-use this "Random".(¡Å”¦H´·RCRITICALZBUG
+™
+java:S1319"gThe type of "symbInt" should be an interface such as "List" rather than the implementation "ArrayList".(ÃÙöÐøÿÿÿÿHµ·RMINORZ
+CODE_SMELL
+’
+java:S1319
+"eThe type of "symbs" should be an interface such as "List" rather than the implementation "ArrayList".(éÌ™ãH¸·RMINORZ
+CODE_SMELL
+…
+java:S1104"SMake symbInt a static final constant or non-public and provide accessors if needed.(ÃÙöÐøÿÿÿÿH»·RMINORZ
+CODE_SMELL
+”
+java:S1319"gThe type of "symbExt" should be an interface such as "List" rather than the implementation "ArrayList".(»¯óâH¼·RMINORZ
+CODE_SMELL
+€
+java:S1104"SMake symbExt a static final constant or non-public and provide accessors if needed.(»¯óâH¿·RMINORZ
+CODE_SMELL
+O
+java:S1116“"Remove this empty statement.(ôŸŽìúÿÿÿÿHÀ·RMINORZ
+CODE_SMELL
+G
+java:S2119/"Save and re-use this "Random".(¡Å”¦HÂ·RCRITICALZBUG
+G
+java:S2119&"Save and re-use this "Random".(¡Å”¦HÃ·RCRITICALZBUG
+~
+java:S1104
+"QMake symbs a static final constant or non-public and provide accessors if needed.(éÌ™ãHÄ·RMINORZ
+CODE_SMELL

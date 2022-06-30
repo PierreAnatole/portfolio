@@ -1,0 +1,9 @@
+
+i
+java:S1128"0Remove this unused import 'java.util.Formatter'.(±¤ğÃùÿÿÿÿ8åªÄ§0Hã¦RMINORZ
+CODE_SMELL
+N
+java:S21118"!Use "BigDecimal.valueOf" instead.(ıßÄÍ8ï«ÏØ0HÚ¦RMAJORZBUG
+…
+java:S3457W"Q%n should be used in place of \n to produce the platform-specific line separator.(¶Ç’Ê8åªÄ§0Hâ¦RMAJORZ
+CODE_SMELL

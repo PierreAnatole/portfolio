@@ -1,0 +1,12 @@
+
+e	java:S106"9Replace this use of System.out or System.err by a logger.(צעמH׳נRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(¥ש‚שÿÿÿÿH״נRMAJORZ
+CODE_SMELL
+e	java:S106"9Replace this use of System.out or System.err by a logger.(–׀‡ׁHÙנRMAJORZ
+CODE_SMELL
+
+java:S1104"OMake cnx a static final constant or non-public and provide accessors if needed.(ÜֵישÿÿÿÿHÚנRMINORZ
+CODE_SMELL
+q	java:S106"9Replace this use of System.out or System.err by a logger.(©‏ךÜתÿÿÿÿ8ףÿע„˜0HÛנRMAJORZ
+CODE_SMELL

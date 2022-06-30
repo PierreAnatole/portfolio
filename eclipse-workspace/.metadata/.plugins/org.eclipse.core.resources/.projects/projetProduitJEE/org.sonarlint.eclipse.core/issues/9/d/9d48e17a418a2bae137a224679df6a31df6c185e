@@ -1,0 +1,26 @@
+
+”
+java:S1989*"_Handle the following exceptions that could be thrown by "doGet": ServletException, IOException.(®Ó‘ûÿÿÿÿÿHÜþRMINORZVULNERABILITY
+c
+java:S1135)"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHÙþRINFOZ
+CODE_SMELL
+j
+java:S1128"1Remove this unused import 'Connexion.ProduitDAO'.(ã°Žæúÿÿÿÿ8þ¾¦Û˜0H“ÿRMINORZ
+CODE_SMELL
+c
+java:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿHÕþRINFOZ
+CODE_SMELL
+˜
+java:S1989""aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ìµÐ±8á´™Û˜0HåþRMINORZVULNERABILITY
+f
+java:S1128"-Remove this unused import 'entities.Produit'.(ÔÓ‘ùÿÿÿÿÿ8þ¾¦Û˜0H•ÿRMINORZ
+CODE_SMELL
+g
+java:S1161(":Add the "@Override" annotation above this method signature(‹¨¯¿HÚþRMAJORZ
+CODE_SMELL
+l
+java:S1161!":Add the "@Override" annotation above this method signature(Ïû©ÖûÿÿÿÿHÖþRMAJORZ
+CODE_SMELL
+f
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8þ¾¦Û˜0H‘ÿRMINORZ
+CODE_SMELL

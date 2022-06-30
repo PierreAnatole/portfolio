@@ -1,0 +1,76 @@
+
+v
+java:S2095{"GUse try-with-resources or close this "Statement" in a "finally" clause.(š•˜Ê8ŸïÌ©0HÖèRBLOCKERZBUG
+ª
+java:S1319Ü"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÖŸ¿Äıÿÿÿÿ8È¦É§0HÈèRMINORZ
+CODE_SMELL
+x
+java:S2095’"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(”Ä¬¾HÏèRBLOCKERZBUG
+m	java:S106¾"9Replace this use of System.out or System.err by a logger.(úôæÿ8Š„•Ù0HºèRMAJORZ
+CODE_SMELL
+•
+java:S1488„"[Immediately return this expression instead of assigning it to the temporary variable "res".(ÕÁığûÿÿÿÿ8ÿàÚÓ0HŞèRMINORZ
+CODE_SMELL
+
+java:S2095ª"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(”Ä¬¾8•ÆŒÙ0HÇèRBLOCKERZBUG
+q	java:S106V"9Replace this use of System.out or System.err by a logger.(²ï€Çşÿÿÿÿ8„‘Ò¬0HÛèRMAJORZ
+CODE_SMELL
+•
+java:S1488”"[Immediately return this expression instead of assigning it to the temporary variable "res".(‹¡š”úÿÿÿÿ8Ä“‡²0HÃèRMINORZ
+CODE_SMELL
+
+java:S2095Ì"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(”Ä¬¾8¬á²Ø0HÔèRBLOCKERZBUG
+v
+java:S2095b"GUse try-with-resources or close this "Statement" in a "finally" clause.(š•˜Ê8ØÂ‹²0HÂèRBLOCKERZBUG
+”
+java:S1488n"[Immediately return this expression instead of assigning it to the temporary variable "res".(ÕÉÎşÿÿÿÿ8Øâ†±0HÑèRMINORZ
+CODE_SMELL
+v
+java:S2095m"GUse try-with-resources or close this "Statement" in a "finally" clause.(š•˜Ê8ÿàÚÓ0HÕèRBLOCKERZBUG
+Q
+java:S1643€"Use a StringBuilder instead.(‹€œ’8ÿàÚÓ0HâèRMINORZ
+CODE_SMELL
+e	java:S106""9Replace this use of System.out or System.err by a logger.(ªùËäHËèRMAJORZ
+CODE_SMELL
+l	java:S106%"9Replace this use of System.out or System.err by a logger.(ş±ï™8ºÛ¾°0HÌèRMAJORZ
+CODE_SMELL
+O
+java:S16438"Use a StringBuilder instead.(½å‘8ÕÖ¯0H¼èRMINORZ
+CODE_SMELL
+Œ
+java:S2293÷"YReplace the type specification in this constructor call with the diamond operator ("<>").(à¡Á—úÿÿÿÿHæèRMINORZ
+CODE_SMELL
+q	java:S106="9Replace this use of System.out or System.err by a logger.(¤”Á·şÿÿÿÿ8©èÍ°0HåèRMAJORZ
+CODE_SMELL
+N
+java:S2111ª"!Use "BigDecimal.valueOf" instead.(šÇÊ$8î¶ıª0HãèRMAJORZBUG
+š
+java:S1319"hThe type of "produits" should be an interface such as "List" rather than the implementation "ArrayList".(ú°í¦øÿÿÿÿHØèRMINORZ
+CODE_SMELL
+P
+java:S1643~"Use a StringBuilder instead.(¡÷…8ÿàÚÓ0H×èRMINORZ
+CODE_SMELL
+ƒ
+java:S3457!"Q%n should be used in place of \n to produce the platform-specific line separator.(†ôßÒùÿÿÿÿHİèRMAJORZ
+CODE_SMELL
+v
+java:S1854÷"<Remove this useless assignment to local variable "produits".(à¡Á—úÿÿÿÿ8ë »ª0H»èRMAJORZ
+CODE_SMELL
+r	java:S106¯"9Replace this use of System.out or System.err by a logger.(¹ŸÀ…úÿÿÿÿ8ÛŠ’Ù0HÆèRMAJORZ
+CODE_SMELL
+
+java:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(ü‡Ñ·8ˆŒŸ°0H½èRMINORZ
+CODE_SMELL
+x
+java:S2095¨"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(”Ä¬¾HÜèRBLOCKERZBUG
+
+java:S2095º"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(”Ä¬¾8È€¨ª0HáèRBLOCKERZBUG
+“
+java:S2293İ"YReplace the type specification in this constructor call with the diamond operator ("<>").(à¡Á—úÿÿÿÿ8ë »ª0HÍèRMINORZ
+CODE_SMELL
+”
+java:S1488c"[Immediately return this expression instead of assigning it to the temporary variable "res".(·ÕÒÄÿÿÿÿÿ8Ûƒù°0H¿èRMINORZ
+CODE_SMELL
+U
+java:S16436"Use a StringBuilder instead.(Š¥¬¨şÿÿÿÿ8æ¬Ó¯0HĞèRMINORZ
+CODE_SMELL

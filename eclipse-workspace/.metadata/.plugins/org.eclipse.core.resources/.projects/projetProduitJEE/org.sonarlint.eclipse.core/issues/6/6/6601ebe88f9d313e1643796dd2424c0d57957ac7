@@ -1,0 +1,34 @@
+
+c
+java:S1135""2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHúûRINFOZ
+CODE_SMELL
+e
+java:S11356"2Complete the task associated to this TODO comment.(°ï¬Î8êû¶Ú˜0HÙıRINFOZ
+CODE_SMELL
+m
+java:S2130/"9Use "Integer.parseInt" for this string-to-int conversion.(æ±Ä·8¶‚¶Ú˜0HÉıRMINORZ
+CODE_SMELL
+”
+java:S19890"XHandle the following exception that could be thrown by "valueOf": NumberFormatException.(¥ƒß™ùÿÿÿÿ8µÂ¶Ú˜0HÒıRMINORZVULNERABILITY
+c
+java:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿHöûRINFOZ
+CODE_SMELL
+
+java:S1989*"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ˆÛƒ8­²¡Ú˜0HüRMINORZVULNERABILITY
+l
+java:S1161!":Add the "@Override" annotation above this method signature(Ïû©ÖûÿÿÿÿH÷ûRMAJORZ
+CODE_SMELL
+r
+java:S21300"9Use "Integer.parseInt" for this string-to-int conversion.(¥ƒß™ùÿÿÿÿ8µÂ¶Ú˜0HÑıRMINORZ
+CODE_SMELL
+g
+java:S1161)":Add the "@Override" annotation above this method signature(‹¨¯¿HûûRMAJORZ
+CODE_SMELL
+€
+java:S1989#"PHandle the following exception that could be thrown by "getWriter": IOException.(ÏÚ‚´HùûRMINORZVULNERABILITY
+
+java:S1989/"XHandle the following exception that could be thrown by "valueOf": NumberFormatException.(æ±Ä·8¶‚¶Ú˜0HÊıRMINORZVULNERABILITY
+l	java:S106+"9Replace this use of System.out or System.err by a logger.(ö¡¹ê8ìİÚ˜0H‡üRMAJORZ
+CODE_SMELL
+
+java:S19894"SHandle the following exception that could be thrown by "sendRedirect": IOException.(¤ÏÔËüÿÿÿÿ8‹å¯Ú˜0HŞıRMINORZVULNERABILITY

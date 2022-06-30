@@ -1,0 +1,35 @@
+
+c
+java:S1135""2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿHëƒRINFOZ
+CODE_SMELL
+{
+java:S1128"GRemove this unused import 'fr.chamonix.entities.ProduitsStockageModel'.(åÕáì8Ê´èŞ˜0HìƒRMINORZ
+CODE_SMELL
+”
+java:S1989="_Handle the following exceptions that could be thrown by "doGet": ServletException, IOException.(®Ó‘ûÿÿÿÿÿHîƒRMINORZVULNERABILITY
+c
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHïƒRINFOZ
+CODE_SMELL
+l
+java:S1161(":Add the "@Override" annotation above this method signature(Ïû©ÖûÿÿÿÿHğƒRMAJORZ
+CODE_SMELL
+
+java:S1989/"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Âğ§äûÿÿÿÿ8­¼ìŞ˜0HòƒRMINORZVULNERABILITY
+
+java:S1989,"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ŠÓğ¿øÿÿÿÿ8§ÙßŞ˜0HóƒRMINORZVULNERABILITY
+c
+java:S1135<"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHôƒRINFOZ
+CODE_SMELL
+‰
+java:S1450"\Remove the "ProduitMetier" field and declare it as a local variable in the relevant methods.(Çƒ¶şHõƒRMINORZ
+CODE_SMELL
+„	java:S116"XRename this field "ProduitMetier" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çƒ¶şHöƒRMINORZ
+CODE_SMELL
+l	java:S106*"9Replace this use of System.out or System.err by a logger.(ÍÎÉ 8ù¶ÖŞ˜0H÷ƒRMAJORZ
+CODE_SMELL
+^
+java:S1068"1Remove this unused "ProduitMetier" private field.(Çƒ¶şHøƒRMAJORZ
+CODE_SMELL
+g
+java:S1161;":Add the "@Override" annotation above this method signature(‹¨¯¿HúƒRMAJORZ
+CODE_SMELL

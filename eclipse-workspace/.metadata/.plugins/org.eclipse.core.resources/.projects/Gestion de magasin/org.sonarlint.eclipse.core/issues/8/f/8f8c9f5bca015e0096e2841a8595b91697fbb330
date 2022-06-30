@@ -1,0 +1,36 @@
+
+|
+java:S1192"GDefine a constant instead of duplicating this literal "saison" 3 times.(šÙÕw8ÂÃ‘ˆ0HRCRITICALZ
+CODE_SMELL
+‰
+java:S3457!"Q%n should be used in place of \n to produce the platform-specific line separator.(îµ·Äşÿÿÿÿ8¬ıá‡0H¢RMAJORZ
+CODE_SMELL
+m
+java:S18541":Remove this useless assignment to local variable "saison".(§Êñ8‘—ˆ0H¤RMAJORZ
+CODE_SMELL
+c
+java:S1481-"+Remove this unused "saison" local variable.(Í¥¤üÿÿÿÿ8‘—ˆ0H¡RMINORZ
+CODE_SMELL
+p	java:S106#"9Replace this use of System.out or System.err by a logger.(é¼ì—şÿÿÿÿ8´ƒÈ‡0H—RMAJORZ
+CODE_SMELL
+c
+java:S1128	"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ôà—ˆ0H›RMINORZ
+CODE_SMELL
+u
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(š•˜Ê8‚îˆ0HšRBLOCKERZBUG
+z
+java:S2095"GUse try-with-resources or close this "Formatter" in a "finally" clause.(ş§Ñáıÿÿÿÿ8ÖøÈ‡0H‘RBLOCKERZBUG
+ƒ
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(šÙÕw8•€Ë‡0H–RMAJORZ
+CODE_SMELL
+}
+java:S1192"HDefine a constant instead of duplicating this literal "libelle" 3 times.(šÙÕw8ÂÃ‘ˆ0H’RCRITICALZ
+CODE_SMELL
+£
+java:S1319&"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¬¥Î8Ïâ‘ˆ0HRMINORZ
+CODE_SMELL
+u
+java:S2095'"GUse try-with-resources or close this "Statement" in a "finally" clause.(š•˜Ê8Í»ª‡0H£RBLOCKERZBUG
+‘
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(à¡Á—úÿÿÿÿ8’”ˆ0H˜RMINORZ
+CODE_SMELL

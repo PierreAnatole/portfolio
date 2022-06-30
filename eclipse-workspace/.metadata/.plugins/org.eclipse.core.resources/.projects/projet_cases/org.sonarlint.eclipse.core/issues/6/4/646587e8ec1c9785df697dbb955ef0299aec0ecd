@@ -1,0 +1,27 @@
+
+a
+java:S1604q"(Make this anonymous inner class a lambda(‹Å˜ùÿÿÿÿ8ÒõÉš’0H³ÚRMAJORZ
+CODE_SMELL
+a
+java:S1604{"(Make this anonymous inner class a lambda(û©¦Ãüÿÿÿÿ8ã§­›’0H´ÚRMAJORZ
+CODE_SMELL
+v
+java:S1126µ"BReplace this if-then-else statement by a single method invocation.(°‚œi8şÉÁÔ‘0HµÚRMINORZ
+CODE_SMELL
+‚
+java:S11923"FDefine a constant instead of duplicating this literal "Rouge" 4 times.(Ä­²èıÿÿÿÿ8Âöàš’0H¶ÚRCRITICALZ
+CODE_SMELL
+
+java:S1192A"JDefine a constant instead of duplicating this literal "minuscule" 3 times.(…áÑ×8³øç›’0H»ÚRCRITICALZ
+CODE_SMELL
+[
+java:S1604g"(Make this anonymous inner class a lambda(ÿ¯á58‰Èƒ›’0H¿ÚRMAJORZ
+CODE_SMELL
+
+java:S1192B"JDefine a constant instead of duplicating this literal "MAJUSCULE" 3 times.(ı…İğ8¬æè›’0HÀÚRCRITICALZ
+CODE_SMELL
+p	java:S107¨"<Method has 9 parameters, which is greater than 7 authorized.(ÔğÈÿ8ëšÄ’0HÄÚRMAJORZ
+CODE_SMELL
+q
+java:S1128"8Remove this unused import 'javafx.scene.control.Button'.(Ë Í‹øÿÿÿÿ8«Àæ’0HÅÚRMINORZ
+CODE_SMELL

@@ -1,0 +1,26 @@
+
+G
+java:S1220""Move this file to a named package.HRMINORZ
+CODE_SMELL
+c
+java:S11352"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHRINFOZ
+CODE_SMELL
+d
+java:S1128"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛ8ÑâÚ˜0HRMINORZ
+CODE_SMELL
+›
+java:S19893"_Handle the following exceptions that could be thrown by "doGet": ServletException, IOException.(®Ó‘ûÿÿÿÿÿ8ÑâÚ˜0H‘RMINORZVULNERABILITY
+s
+java:S1161"":Add the "@Override" annotation above this method signature(Ïû©Öûÿÿÿÿ8ÑâÚ˜0H’RMAJORZ
+CODE_SMELL
+
+java:S1989+"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(—Ëÿûÿÿÿÿ8ÑâÚ˜0H”RMINORZVULNERABILITY
+c
+java:S1135#"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH•RINFOZ
+CODE_SMELL
+c
+java:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿH–RINFOZ
+CODE_SMELL
+n
+java:S11611":Add the "@Override" annotation above this method signature(‹¨¯¿8ÑâÚ˜0H—RMAJORZ
+CODE_SMELL

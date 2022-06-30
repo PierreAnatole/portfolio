@@ -1,0 +1,12 @@
+
+.button{
+	-fx-Background-color: rgb(111,176,134,0.5);
+}
+
+.ButtonStyle1 {
+	-fx-Background-color: red;
+}
+
+.root{
+	-fx-Background-color: rgb(125,202,217,0.3);
+}

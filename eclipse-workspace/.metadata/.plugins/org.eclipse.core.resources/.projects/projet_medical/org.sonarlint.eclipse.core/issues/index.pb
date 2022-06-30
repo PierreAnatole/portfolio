@@ -1,0 +1,21 @@
+
+P
+ src/main/webapp/ajouterville.jsp,c\6\c64064be98a5e5938c95af372a4d94b42027b12b
+U
+%src/main/java/ListPatientServlet.java,5\b\5bab2b6193e922ad5476147405381a0cf31312f5
+T
+$src/main/java/AddPatientServlet.java,8\5\85d3ac9555bceeb5d9d0090d921d73be26eb3e8f
+Y
+)src/main/java/medical/fr/ConnexionDB.java,2\9\29070e347ef4af117343803586d446e88abc7dd5
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+b
+2src/main/java/medical/fr/UpdatePatientServlet.java,3\6\36d80a5eb99d7ed77a531eebacaad79ae5cbff65
+b
+2src/main/java/medical/fr/DeletePatientServlet.java,d\5\d586e0db2ca3b4714f64c5c472bc295e62c82af7
+O
+src/main/webapp/patientedit.jsp,2\d\2deac30727cd7ab93ec05e89e45605dc59004037
+P
+ src/main/webapp/listepatient.jsp,5\a\5aff2398f540663cbbf716c76d23e9c11b8c4f11
+X
+(src/main/java/medical/fr/PatientDAO.java,0\5\0549f3a55331d2910257d2420c8f8a3b0a170d73

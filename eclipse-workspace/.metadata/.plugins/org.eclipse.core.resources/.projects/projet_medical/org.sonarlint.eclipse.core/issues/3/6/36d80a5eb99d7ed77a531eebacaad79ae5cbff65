@@ -1,0 +1,21 @@
+
+g
+java:S1161)":Add the "@Override" annotation above this method signature(‹¨¯¿H¸øRMAJORZ
+CODE_SMELL
+‰
+java:S1989"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ˆÛƒH¾øRMINORZVULNERABILITY
+_
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸHºøRMINORZ
+CODE_SMELL
+‘
+java:S1989&"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(õ²çH½øRMINORZVULNERABILITY
+c
+java:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿH¿øRINFOZ
+CODE_SMELL
+‰
+java:S1989*"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ˆÛƒH¼øRMINORZVULNERABILITY
+ˆ
+java:S19891"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ÑØÖ¬úÿÿÿÿH·øRMINORZVULNERABILITY
+l
+java:S1161":Add the "@Override" annotation above this method signature(Ïû©ÖûÿÿÿÿHµøRMAJORZ
+CODE_SMELL

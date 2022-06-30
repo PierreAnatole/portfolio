@@ -1,0 +1,10 @@
+
+©
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Üô·áøÿÿÿÿ8£¹Š×˜0H½÷RMINORZ
+CODE_SMELL
+’
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÊµÒªıÿÿÿÿ8¹†×˜0Hµ÷RMINORZ
+CODE_SMELL
+¡
+java:S1319"hThe type of "produits" should be an interface such as "List" rather than the implementation "ArrayList".(ÚŒÕ¡ûÿÿÿÿ8£¹Š×˜0H¿÷RMINORZ
+CODE_SMELL

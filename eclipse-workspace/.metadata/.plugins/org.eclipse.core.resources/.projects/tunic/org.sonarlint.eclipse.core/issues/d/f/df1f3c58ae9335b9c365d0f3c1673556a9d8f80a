@@ -1,0 +1,39 @@
+
+‰	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‡‹ÉÏHø¶RCRITICALZ
+CODE_SMELL
+‰	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬ğÕöHù¶RCRITICALZ
+CODE_SMELL
+‰	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ô•ŠúHú¶RCRITICALZ
+CODE_SMELL
+	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¶µÎ‡şÿÿÿÿHû¶RCRITICALZ
+CODE_SMELL
+‰	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(À‘ï×Hü¶RCRITICALZ
+CODE_SMELL
+ˆ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Òø%Hı¶RCRITICALZ
+CODE_SMELL
+ˆ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(å‚Ñ4Hş¶RCRITICALZ
+CODE_SMELL
+	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Õ¸ßÕúÿÿÿÿHÿ¶RCRITICALZ
+CODE_SMELL
+	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡ì ÿÿÿÿÿH€·RCRITICALZ
+CODE_SMELL
+j	java:S106J"9Replace this use of System.out or System.err by a logger.(÷ÁæĞøÿÿÿÿH·RMAJORZ
+CODE_SMELL
+‰	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(“×Ë§H‚·RCRITICALZ
+CODE_SMELL
+	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(•¤«¶üÿÿÿÿHƒ·RCRITICALZ
+CODE_SMELL
+	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Èª‰ûÿÿÿÿH„·RCRITICALZ
+CODE_SMELL
+	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(èİœÿÿÿÿÿH…·RCRITICALZ
+CODE_SMELL
+
+java:S1104#"MMake y a static final constant or non-public and provide accessors if needed.(ÔçÛşÿÿÿÿH†·RMINORZ
+CODE_SMELL
+
+java:S1104""MMake x a static final constant or non-public and provide accessors if needed.(±Šõ¶ûÿÿÿÿH‡·RMINORZ
+CODE_SMELL
+	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ğ³¸ÂúÿÿÿÿHˆ·RCRITICALZ
+CODE_SMELL
+	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‘‚øªıÿÿÿÿH‰·RCRITICALZ
+CODE_SMELL

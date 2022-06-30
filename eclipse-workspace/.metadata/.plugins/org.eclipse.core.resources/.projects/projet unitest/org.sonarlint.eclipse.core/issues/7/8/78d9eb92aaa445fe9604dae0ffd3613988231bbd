@@ -1,0 +1,28 @@
+
+y
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ş®¶¸8Çë—¨0HÜ§RMINORZ
+CODE_SMELL
+e
+java:S1135"2Complete the task associated to this TODO comment.(˜âÅ»8¯ôº¨0H¨RINFOZ
+CODE_SMELL
+_
+java:S1172"+Remove this unused method parameter "mail".(áô÷õ8ÿ¡»¨0H­¨RMAJORZ
+CODE_SMELL
+n
+java:S1118":Add a private constructor to hide the implicit public one.(üÉ¾ú8ìÉ‰ÿ0HÃ§RMAJORZ
+CODE_SMELL
+u
+java:S1126"AReplace this if-then-else statement by a single return statement.(ŸÕ¤ä8Çë—¨0Hß§RMINORZ
+CODE_SMELL
+h
+java:S1172""/Remove this unused method parameter "lastName".(æù¹­ÿÿÿÿÿ8ÄÑ»¨0Hµ¨RMAJORZ
+CODE_SMELL
+e
+java:S1135$"2Complete the task associated to this TODO comment.(˜âÅ»8ÄÑ»¨0H·¨RINFOZ
+CODE_SMELL
+i
+java:S1172'"0Remove this unused method parameter "firstName".(íÜòüÿÿÿÿ8ÄÑ»¨0H¸¨RMAJORZ
+CODE_SMELL
+e
+java:S1135)"2Complete the task associated to this TODO comment.(˜âÅ»8ÄÑ»¨0Hº¨RINFOZ
+CODE_SMELL
