@@ -1,22 +1,0 @@
-
-x	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŒËžHËæRMINORZ
-CODE_SMELL
-c
-java:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿHÌæRINFOZ
-CODE_SMELL
-l
-java:S1161":Add the "@Override" annotation above this method signature(Ïû©ÖûÿÿÿÿHÍæRMAJORZ
-CODE_SMELL
-€
-java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(ÏÚ‚´HÏæRMINORZVULNERABILITY
-c
-java:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHÐæRINFOZ
-CODE_SMELL
-g
-java:S1161$":Add the "@Override" annotation above this method signature(‹¨¯¿HÑæRMAJORZ
-CODE_SMELL
-”
-java:S1989&"_Handle the following exceptions that could be thrown by "doGet": ServletException, IOException.(®Ó‘ûÿÿÿÿÿHÓæRMINORZVULNERABILITY
-c
-java:S1135%"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHÔæRINFOZ
-CODE_SMELL

@@ -1,13 +1,13 @@
 
-a
-java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw8•Æ¹‡Ž0H©RMINORZ
-CODE_SMELL
-v
-java:S1128"CRemove this unused import 'fr.societedev.connexion.ConnexionMysql'.(öÖˆÖ8•Æ¹‡Ž0H«RMINORZ
+c
+java:S1128"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø8•Æ¹‡Ž0Hü„RMINORZ
 CODE_SMELL
 b
-java:S1128"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø8•Æ¹‡Ž0H­RMINORZ
+java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw8•Æ¹‡Ž0Hþ„RMINORZ
 CODE_SMELL
-c
-java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8•Æ¹‡Ž0H¯RMINORZ
+d
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8•Æ¹‡Ž0H€…RMINORZ
+CODE_SMELL
+w
+java:S1128"CRemove this unused import 'fr.societedev.connexion.ConnexionMysql'.(öÖˆÖ8•Æ¹‡Ž0H‚…RMINORZ
 CODE_SMELL

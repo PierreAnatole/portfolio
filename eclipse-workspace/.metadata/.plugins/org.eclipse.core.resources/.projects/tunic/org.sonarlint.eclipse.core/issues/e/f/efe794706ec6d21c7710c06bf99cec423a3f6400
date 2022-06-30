@@ -1,28 +1,28 @@
 
-w
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÀŞ›ÍşÿÿÿÿH˜·RMINORZ
-CODE_SMELL
-	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÀŞ›ÍşÿÿÿÿH›·RCRITICALZ
-CODE_SMELL
-y	java:S116"MRename this field "SR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áö¯ŞHœ·RMINORZ
-CODE_SMELL
-…
-java:S1104"SMake symbols a static final constant or non-public and provide accessors if needed.(ô”õ‡úÿÿÿÿH·RMINORZ
+	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÀŞ›ÍşÿÿÿÿH¾„RCRITICALZ
 CODE_SMELL
 ‚
-java:S3776K"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ç¹ÕÌH·RCRITICALZ
+java:S3776K"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ç¹ÕÌH¿„RCRITICALZ
 CODE_SMELL
 h
-java:S1161¤":Add the "@Override" annotation above this method signature(¶øÂÁH«·RMAJORZ
+java:S1161¤":Add the "@Override" annotation above this method signature(¶øÂÁHÌ„RMAJORZ
 CODE_SMELL
-™
-java:S1319"gThe type of "symbols" should be an interface such as "List" rather than the implementation "ArrayList".(ô”õ‡úÿÿÿÿH­·RMINORZ
-CODE_SMELL
-z	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ñÚ±H°·RMINORZ
+y	java:S116"MRename this field "SR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áö¯ŞHÎ„RMINORZ
 CODE_SMELL
 ‹
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô”õ‡úÿÿÿÿH±·RMINORZ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô”õ‡úÿÿÿÿHÏ„RMINORZ
 CODE_SMELL
 [
-java:S1948"$Make "SR" transient or serializable.(Áö¯Ş8¶Ü™«‘0H³·RCRITICALZ
+java:S1948"$Make "SR" transient or serializable.(Áö¯Ş8¶Ü™«‘0HÑ„RCRITICALZ
+CODE_SMELL
+™
+java:S1319"gThe type of "symbols" should be an interface such as "List" rather than the implementation "ArrayList".(ô”õ‡úÿÿÿÿHÒ„RMINORZ
+CODE_SMELL
+w
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÀŞ›ÍşÿÿÿÿHÕ„RMINORZ
+CODE_SMELL
+…
+java:S1104"SMake symbols a static final constant or non-public and provide accessors if needed.(ô”õ‡úÿÿÿÿHØ„RMINORZ
+CODE_SMELL
+z	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ñÚ±HÙ„RMINORZ
 CODE_SMELL

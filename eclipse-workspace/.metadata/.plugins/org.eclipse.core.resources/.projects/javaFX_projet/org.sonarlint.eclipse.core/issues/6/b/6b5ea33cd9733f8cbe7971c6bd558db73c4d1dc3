@@ -1,22 +1,22 @@
 
-`
-java:S1602P",Remove useless curly braces around statement(İ’£”8‚Ò±Í‘0H¨ÚRMINORZ
+q	java:S106U"9Replace this use of System.out or System.err by a logger.(öíÛÉøÿÿÿÿ8¥¾±Ï‘0H›…RMAJORZ
 CODE_SMELL
-q	java:S106L"9Replace this use of System.out or System.err by a logger.(îìƒ«şÿÿÿÿ8³ÈñÌ‘0H©ÚRMAJORZ
-CODE_SMELL
-r
-java:S1128"9Remove this unused import 'javafx.scene.transform.Scale'.(©¼—³üÿÿÿÿ8¦Ê‘Ñ‘0HªÚRMINORZ
-CODE_SMELL
-c
-java:S1128"/Remove this unused import 'interfaces.Figures'.(ŸÃıé8¦Ê‘Ñ‘0H¬ÚRMINORZ
-CODE_SMELL
-„	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§×ğ¯8«ˆÌ‘0H®ÚRMINORZ
+q	java:S106L"9Replace this use of System.out or System.err by a logger.(îìƒ«şÿÿÿÿ8³ÈñÌ‘0Hœ…RMAJORZ
 CODE_SMELL
 s
-java:S1128":Remove this unused import 'javafx.scene.transform.Rotate'.(÷Ç¤øÿÿÿÿ8¦Ê‘Ñ‘0H¯ÚRMINORZ
+java:S1128":Remove this unused import 'javafx.scene.transform.Rotate'.(÷Ç¤øÿÿÿÿ8¦Ê‘Ñ‘0H…RMINORZ
 CODE_SMELL
-q	java:S106U"9Replace this use of System.out or System.err by a logger.(öíÛÉøÿÿÿÿ8¥¾±Ï‘0H±ÚRMAJORZ
+`
+java:S1602P",Remove useless curly braces around statement(İ’£”8‚Ò±Í‘0HŸ…RMINORZ
 CODE_SMELL
 e
-java:S1602T",Remove useless curly braces around statement(¨½ºõıÿÿÿÿ8¦Ê‘Ñ‘0H²ÚRMINORZ
+java:S1602T",Remove useless curly braces around statement(¨½ºõıÿÿÿÿ8¦Ê‘Ñ‘0H …RMINORZ
+CODE_SMELL
+r
+java:S1128"9Remove this unused import 'javafx.scene.transform.Scale'.(©¼—³üÿÿÿÿ8¦Ê‘Ñ‘0H¡…RMINORZ
+CODE_SMELL
+„	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§×ğ¯8«ˆÌ‘0H£…RMINORZ
+CODE_SMELL
+c
+java:S1128"/Remove this unused import 'interfaces.Figures'.(ŸÃıé8¦Ê‘Ñ‘0H¤…RMINORZ
 CODE_SMELL

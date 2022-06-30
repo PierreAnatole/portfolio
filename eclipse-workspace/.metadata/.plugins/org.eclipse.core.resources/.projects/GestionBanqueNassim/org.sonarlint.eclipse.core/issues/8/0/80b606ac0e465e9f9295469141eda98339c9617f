@@ -1,17 +1,0 @@
-
-G
-java:S1220""Move this file to a named package.H¬áRMINORZ
-CODE_SMELL
-c
-java:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿH­áRINFOZ
-CODE_SMELL
-c
-java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH®áRINFOZ
-CODE_SMELL
-c
-java:S1135%"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH¯áRINFOZ
-CODE_SMELL
-j	java:S106,"9Replace this use of System.out or System.err by a logger.(Éç†øÿÿÿÿH°áRMAJORZ
-CODE_SMELL
-e	java:S106/"9Replace this use of System.out or System.err by a logger.(ğåÈ©H±áRMAJORZ
-CODE_SMELL
