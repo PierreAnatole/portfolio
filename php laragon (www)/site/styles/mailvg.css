@@ -1,0 +1,14 @@
+/* page */
+main {
+    width: 60%;
+    margin: 0px auto;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form label, form input[type="submit"]{
+    margin-top: 4%;
+}

@@ -1,0 +1,31 @@
+/* page */
+#forms {
+    display: flex;
+}
+
+#connexion {
+    width: 40%;
+    margin-left:7%;
+}
+
+#inscription {
+    width: 40%;
+    margin-left:3%;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+#forms h2 {
+    margin-left: 10%;
+}
+
+form input{
+    margin: 0px 10% 3% 10%;
+}
+
+form label {
+    margin: 0px 10%;
+}

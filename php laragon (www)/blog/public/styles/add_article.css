@@ -1,0 +1,38 @@
+.form-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-container h1 {
+    margin-bottom: 2rem;
+}
+
+.form-control {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 0rem;
+}
+
+.form-control label{
+    margin-bottom: 1rem;
+}
+
+.form-control input, .form-control select, .form-control textarea {
+    border: var(--border);
+    border-radius: 3px;
+    padding: 0.8rem 1rem;
+}
+
+.form-control textarea {
+    min-height: 20rem;
+}
+
+.form-actions {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-end;
+}
+
+.form-actions button{
+    margin-left: 1rem;
+}

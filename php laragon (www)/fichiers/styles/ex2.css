@@ -1,0 +1,26 @@
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 0px auto;
+}
+
+td {
+    border: solid 2px black;
+    padding: 5px 50px;
+}
+
+tr :nth-child(4) {
+    width: 100px;
+}
+
+tbody tr:nth-of-type(2n) :nth-of-type(2n), tbody tr:nth-of-type(2n+1) :nth-of-type(2n+1)  {
+    background-color: rgb(245,245,245);
+}
+
+tbody tr:nth-of-type(2n) :nth-of-type(2n+1), tbody tr:nth-of-type(2n+1) :nth-of-type(2n)  {
+    background-color: rgb(180, 180, 180);
+}
+
+thead {
+    background-color: beige;
+}

@@ -1,0 +1,32 @@
+body {
+    background-color: #FFCACA;
+}
+
+h1 {
+    text-decoration: underline;
+    text-align: center;
+}
+
+#form>label {
+    float: left;
+    width: 200px;
+    display: block;
+}
+
+#radio {
+    margin-left: 200px;
+}
+
+#form select {
+    margin-left: 200px;
+}
+
+#obl {
+    margin-top: 100px;
+    margin-left: 500px;
+}
+
+input[type="submit"] {
+    margin-top: 100px;
+    margin-left: 300px;
+}

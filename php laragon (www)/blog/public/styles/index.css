@@ -1,0 +1,16 @@
+.articles-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.article {
+    width: 30%;
+    margin: 1rem;
+}
+
+.image-container {
+    height: 30rem;
+    background-size: cover;
+}

@@ -1,0 +1,25 @@
+.bold {
+    font-weight: bold;
+    background-color: rgba(130, 250, 114, 0.603);
+}
+
+table {
+    border: 1px solid #e6eeee;
+    table-layout: fixed;
+    border-collapse: collapse;
+    width: 400px;
+    height: 400px;
+}
+
+table td {
+    padding: 8px 8px;
+    border:1px solid rgb(100, 100, 100);
+}
+
+table tr:nth-of-type(2n) :nth-of-type(2n), table tr:nth-of-type(2n+3) :nth-of-type(2n+3)  {
+    background-color: rgb(230,230,230);
+}
+
+ table tr:nth-of-type(2n) :nth-of-type(2n+3), table tr:nth-of-type(2n+3) :nth-of-type(2n)  {
+    background-color: rgb(150, 150, 150);
+}

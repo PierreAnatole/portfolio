@@ -1,0 +1,15 @@
+:root {
+    --danger:#ff4d4d;
+}
+
+.image-container {
+    height: 500px;
+    width: 500px;
+    background-size: cover;
+}
+
+.text-danger {
+    color:var(--danger);
+    font-size: 1.2rem;
+    font-weight: 700;
+}

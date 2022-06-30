@@ -1,0 +1,16 @@
+
+
+table {
+    border: 1px solid #e6eeee;
+    table-layout: fixed;
+    border-collapse: collapse;
+    width: 400px;
+    height: 400px;
+}
+
+table td {
+    padding: 8px 8px;
+    border:1px solid rgb(100, 100, 100);
+    background-color: rgb(230, 230, 230);
+}
+

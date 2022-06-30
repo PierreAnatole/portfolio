@@ -1,0 +1,115 @@
+/* main */
+#l-pub {
+    width: 90%;
+    margin: 5% auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+#l-pub img {
+    display: inline-block;
+}
+
+#l-pub img[alt="guitare-pub"] {
+    width: 75%;
+    height: auto;
+}
+
+#l-pub img[alt="banner-r"] {
+    margin-left: 5%;
+    width: 19%;
+    height: auto;
+}
+
+img[alt="banner-c"] {
+    display: block;
+    width: 100%;
+    margin: 5% 0px;
+}
+
+#l-categories {
+    width: 100%;
+    height: auto;
+    margin-top: 5%;
+}
+
+#l-categories span {
+    margin-left: 5%;
+}
+
+.txtstyle {
+    color: #000B3E;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+#imcategories {
+    margin-top: 3%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.imcat {
+    display: block;
+    width: 33.33%;
+    height: auto;
+}
+
+#l-vente_part {
+    margin-top: 5%;
+    width: 92%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 3%;
+}
+
+#vente {
+    height: auto;
+    width: 55%;
+
+}
+
+#imtopvente {
+    margin-top: 3%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+#vente .imtpv {
+    width: 30%;
+    margin: 0px 1%;
+}
+
+
+
+
+#partenaires {
+    height: auto;
+    width: 45%;
+    margin-left: 3%;
+}
+
+#partenaires img{
+    margin-top: 3%;
+    display: block;
+    width: 100%;
+}
+
+/* footer */
+footer {
+    width: 64%;
+    height: auto;
+    margin: 20px auto;
+    box-shadow: 1px 3px 14px grey;
+    background-color: rgb(230, 230, 230);
+}
+
+footer img {
+    height: auto;
+    width: 100%;
+    display: block;
+}

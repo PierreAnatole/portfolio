@@ -1,0 +1,96 @@
+/* page generale */
+body {
+    background-color: #c0cadc;
+}
+
+a,a:visited,a:hover {
+    color: unset;
+    text-decoration: none;
+}
+
+
+#page {
+    width: 64%;
+    height: auto;
+    margin: 0 auto;
+    background-color: rgb(230, 230, 230);
+    box-shadow: 1px 3px 14px grey;
+    padding-bottom: 2.5%;
+}
+
+/* header */
+header {
+    overflow: hidden;
+    position: relative;
+    height: 150px;
+}
+
+header img[alt="log"] {
+    position:absolute;
+    width: auto;
+    height: 100%;
+    right: Opx;
+    top: 0px;
+}
+
+#bandes {
+    display: flex;
+    justify-content:space-between;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
+.bande {
+    width: 100%;
+    height: 30%;
+}
+
+.bande .textb span {
+    display: inline-block;
+    white-space: nowrap;
+}
+
+.bande span:not(:first-child) {
+    margin-left: 5% ;
+}
+
+
+#bande1 {
+    background-color: rgb(230, 230, 230);
+}
+
+#txtb1 span {
+    color: #270c3f;
+    font-weight: bold;
+}
+
+#txtb1 img {
+    margin-top: 1%;
+    margin-left: 10%;
+}
+
+#bande2 {
+    color: white;
+    background-color: rgb(102, 102, 102);
+
+}
+
+#txtb2 span {
+    
+    font-weight: bold;
+    color: white;
+}
+
+#bande3 {
+    margin-bottom: 15px;
+    background-color: rgb(51, 51, 51);
+}
+
+#txtb3 span {
+    color: white;
+}
+
+.txtb span:hover{
+    color: #C95C00 !important;
+}
